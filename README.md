@@ -8,7 +8,7 @@ The high level solution architecture includes:
 #### * adaptive card template for displaying the QRCode during chat
 #### * example assign variable elements and the adaptive card json to include in your Healthbot scenario
 
-<center><img src="images//azure-api-fhir-paas.png" width="850"></center>
+<center><img src="images//csdQRCode-High-Level.jpg" width="850"></center>
 
 # Prerequisites
 Azure Subscription is required to use these functions as written. These are implemented in .NET Core so you can take the core logic and expose these functions within your own hosting environment.  The adaptive card and action statements are used within the Healthbot Service.
