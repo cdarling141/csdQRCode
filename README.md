@@ -15,7 +15,7 @@ Azure Subscription is required to use these functions as written. These are impl
 
 # Contents
 
-* [Chapter 1 - Walkthrough of Solution: Review functions and discuss adaptive card usage](./Chapter1-Walkthrough/ReadMe.md)
+* [Chapter 1 - Walkthrough of Solution: Review functions and discuss adaptive card usage](./Chapter1-Walkthrough/README.md)
 
 # Contributing
 
@@ -33,5 +33,5 @@ Microsoft can make no representation concerning the content of this sample. Micr
 
 ***
 
-[Go to Chapter 1 - Walkthrough of Solution: Review functions and discuss adaptive card usage](./Chapter1-Walkthrough/ReadMe.md)
+[Go to Chapter 1 - Walkthrough of Solution: Review functions and discuss adaptive card usage](./Chapter1-Walkthrough/README.md)
 
