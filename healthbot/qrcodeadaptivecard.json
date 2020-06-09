@@ -1,0 +1,19 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "Container",
+            "items": [
+                {
+            "type": "Image",
+            "url": user.qrcodeurl,
+            "horizontalAlignment": "Center",
+            "altText": "Covid Badge",
+            "size": "Large"
+                }
+            ]
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}
