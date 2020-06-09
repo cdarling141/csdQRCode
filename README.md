@@ -6,7 +6,7 @@ The high level solution architecture includes:
 #### * csdQRCode Function: Generate a QRCode based on parameters passed in.
 #### * covidtoken: Validate a QRCode based lookup and return a pass/fail based on function logic
 #### * adaptive card template for displaying the QRCode during chat
-#### * example action statements and including the adaptive card in your Healthbot scenario
+#### * example assign variable elements and the adaptive card json to include in your Healthbot scenario
 
 <center><img src="images//azure-api-fhir-paas.png" width="850"></center>
 
