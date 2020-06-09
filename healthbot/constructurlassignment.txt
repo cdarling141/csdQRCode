@@ -1,1 +1,4 @@
-
+scope: user
+variable name: qrcodeurl
+operation to perform on variable: set
+value expression: '**url**/api/QRCodeit?code=' + scenario.qrcodeKey + '&user=' + user.userId
