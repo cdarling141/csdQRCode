@@ -14,6 +14,7 @@ The high level steps includes:
 
 <center><img src="images//assignkeyvisual.png" width="850"></center>
 <center><img src="images//assignurlvisual.png" width="850"></center>
+<center><img src="images//QRCode Statement for Adaptive Card.png" width="850"></center>
 <center><img src="images//QRCode Statement for Adaptive Card - Select Card.png" width="850"></center>
 <center><img src="images//QRCode Statement for Adaptive Card - View Card.png" width="850"></center>
-<center><img src="images//QRCode Statement for Adaptive Card.png" width="850"></center>
+
