@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csdQRCode", "csdQRCode\csdQRCode.csproj", "{0CE7D339-9D5D-4D85-A485-043F2095C893}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covidtoken", "Covidtoken\Covidtoken.csproj", "{6B47F7E5-B940-43F4-A633-0DA6298BED4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE7D339-9D5D-4D85-A485-043F2095C893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE7D339-9D5D-4D85-A485-043F2095C893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE7D339-9D5D-4D85-A485-043F2095C893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE7D339-9D5D-4D85-A485-043F2095C893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B47F7E5-B940-43F4-A633-0DA6298BED4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B47F7E5-B940-43F4-A633-0DA6298BED4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B47F7E5-B940-43F4-A633-0DA6298BED4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B47F7E5-B940-43F4-A633-0DA6298BED4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8F4F52-52BA-48FA-B6FB-7067B48AAA9D}
+	EndGlobalSection
+EndGlobal
