@@ -1,0 +1,4 @@
+scope: scenario
+variable name: qrcodekey
+operation to perform on variable: set
+value expression: '**CodeKeyForQRCodeFunction**'  <- Replace with your key when deployed to Azure and function has a code key
