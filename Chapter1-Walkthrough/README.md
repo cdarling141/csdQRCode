@@ -6,7 +6,10 @@
 * Visual Studio
 * Microsoft Healthcare bot service instance
 
-The high level steps includes: 
+
+<center><img src="images//csdQRCode Detail Level.jpg" width="850"></center>
+
+
 #### * csdQRCode Function: Generate a QRCode based on parameters passed in.
 #### * covidtoken: Validate a QRCode based lookup and return a pass/fail based on function logic
 #### * adaptive card template for displaying the QRCode during chat
